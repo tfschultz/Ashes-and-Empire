@@ -8,3 +8,5 @@ Features:
   * Updated tech tree.
   * Additional journal entries.
   * Reworked diplomatic interests to appropriately constrain expansion.
+  * More realistic industrialization.
+
